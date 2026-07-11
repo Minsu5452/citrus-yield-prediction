@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-제주 감귤나무의 생육 데이터로 착과량을 예측했습니다. 48시간짜리 짧은 대회 안에서 피처 구성, 모델 비교, multi K-fold 앙상블을 빠르게 돌려 상위 6.6%를 기록했습니다.
+제주 감귤나무의 생육 데이터로 착과량을 예측했습니다. 48시간짜리 짧은 대회 안에서 피처 구성부터 모델 비교, multi K-fold 앙상블까지 빠르게 돌려 상위 6.6%를 기록했습니다.
 
 ## 개요
 
